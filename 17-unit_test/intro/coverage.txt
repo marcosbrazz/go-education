@@ -1,0 +1,8 @@
+mode: set
+intro/unit-test.go:8.13,12.2 3 0
+intro/address/address.go:12.41,19.39 5 1
+intro/address/address.go:19.39,20.28 1 1
+intro/address/address.go:20.28,22.4 1 1
+intro/address/address.go:25.2,25.18 1 1
+intro/address/address.go:25.18,28.3 2 1
+intro/address/address.go:30.2,30.28 1 1
